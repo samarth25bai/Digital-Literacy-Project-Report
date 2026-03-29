@@ -61,21 +61,21 @@ digital-literacy-project/
 
 ---
 
-### 📧 Task 4: Email Etiquette
+###  Task 4: Email Etiquette
 - Drafted professional emails  
 - Created a social media Do’s & Don’ts checklist  
 - Learned formal communication skills  
 
 ---
 
-### 🔐 Task 5: Cybercrime Awareness
+###  Task 5: Cybercrime Awareness
 - Developed a phishing case study  
 - Created a prevention checklist for students  
 - Learned safe online practices  
 
 ---
 
-## 🛠️ Tools & Platforms Used
+##  Tools & Platforms Used
 
 - Canva (Infographic Design)  
 - GitHub (Version Control & Hosting)  
@@ -86,7 +86,7 @@ digital-literacy-project/
 
 ---
 
-## 🎯 Key Learnings
+##  Key Learnings
 
 - Importance of digital literacy in modern education  
 - Building a professional digital identity  
@@ -96,7 +96,7 @@ digital-literacy-project/
 
 ---
 
-## 📊 Project Outcome
+##  Project Outcome
 
 This project helped me develop essential digital skills and improved my ability to use online tools effectively. It also enhanced my understanding of professional communication and cybersecurity awareness, which will be valuable throughout my academic and professional journey.
 
@@ -104,7 +104,7 @@ This project helped me develop essential digital skills and improved my ability 
 
 ##  Submission
 
-🔗 **GitHub Repository Link:**https://github.com/samarth25bai/Digital-Literacy-Project-Report
+ **GitHub Repository Link:**https://github.com/samarth25bai/Digital-Literacy-Project-Report
 
 ---
 
